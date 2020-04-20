@@ -27,7 +27,7 @@
    <br>
 ![image](https://s.isanook.com/ns/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL25zLzAvdWQvMTYxMC84MDUwMzgyL2NvdmlkLmpwZw==.jpg)
 <br>[Google](http://www.google.com)
-<br>[Google](http://www.google.com)
+[Google](http://www.google.com)
 
 |Col1  | Col2  |  Col3 | Col4  | 
 ----- | ----- | ----- | ----- |
